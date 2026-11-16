@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nwd0LxtgpU=",
+  "success": true,
+  "projectFilePath": "D:\\projects\\GiovanniKaffeewelt\\src\\Giovanni.Admin\\Giovanni.Admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kobra yousufy\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\11.0.0\\microsoft.aspnetcore.app.internal.assets.11.0.0.nupkg.sha512",
+    "C:\\Users\\kobra yousufy\\.nuget\\packages\\microsoft.extensions.ai\\10.11.0\\microsoft.extensions.ai.10.11.0.nupkg.sha512",
+    "C:\\Users\\kobra yousufy\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.11.0\\microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "C:\\Users\\kobra yousufy\\.nuget\\packages\\radzen.blazor\\13.0.0\\radzen.blazor.13.0.0.nupkg.sha512",
+    "C:\\Users\\kobra yousufy\\.nuget\\packages\\system.numerics.tensors\\10.0.13\\system.numerics.tensors.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

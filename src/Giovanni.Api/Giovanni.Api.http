@@ -1,0 +1,11 @@
+@Giovanni.Api_HostAddress = http://localhost:5166
+
+GET {{Giovanni.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Giovanni.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

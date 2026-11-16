@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Giovanni.Admin/Giovanni.Admin.csproj" />
+    <Project Path="src/Giovanni.Api/Giovanni.Api.csproj" />
+    <Project Path="src/Giovanni.Application/Giovanni.Application.csproj" />
+    <Project Path="src/Giovanni.Contracts/Giovanni.Contracts.csproj" />
+    <Project Path="src/Giovanni.Core/Giovanni.Core.csproj" />
+    <Project Path="src/Giovanni.Infrastructure/Giovanni.Infrastructure.csproj" />
+    <Project Path="src/Giovanni.Web/Giovanni.Web.csproj" />
+  </Folder>
+</Solution>
